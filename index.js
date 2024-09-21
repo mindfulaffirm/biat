@@ -64,7 +64,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/BIAT/qual
 					}, 
 					stimulusMedia : [ //Stimuli content as PIP's media objects
                     {word: 'Tyron'},
-					{word: 'Malik'},
+					{word: 'Ahmad'},
 					{word: 'Terrell'},
 					{word: 'Jazmin'},
 					{word: 'Tiara'},
