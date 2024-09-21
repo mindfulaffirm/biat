@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://github.com/keefellow/biat/blob/main/index.js'], function(APIConstructor, iatExtension){
+define(['pipAPI', 'https://keefellow.github.io/biat/index.js'], function(APIConstructor, iatExtension){
   var API = new APIConstructor();
 
 	
