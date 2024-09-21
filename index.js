@@ -1,5 +1,5 @@
-define(['pipAPI', 'https://keefellow.github.io/biat/index.js'], function(APIConstructor, iatExtension){
-  var API = new APIConstructor();
+define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/BIAT/qualtrics/qbiat6.js'], function(APIConstructor, iatExtension){
+ var API = new APIConstructor();
 
 	
 	return iatExtension({
@@ -59,7 +59,7 @@ define(['pipAPI', 'https://keefellow.github.io/biat/index.js'], function(APICons
 						//If you're using a startStimulus, set here. If not, set the parameter showStimuliWithInst to false (see later below)
 						media : {image : 'blacks.jpg'}, 
 							css : {color:'#31b404','font-size':'1em'}, 
-							height : 2
+							height : 13
 						}
 					}, 
 					stimulusMedia : [ //Stimuli content as PIP's media objects
@@ -82,7 +82,7 @@ define(['pipAPI', 'https://keefellow.github.io/biat/index.js'], function(APICons
 						startStimulus : {
 							media : {image : 'whites.jpg'},  
 							css : {color:'#31b404','font-size':'1em'}, 
-							height : 2
+							height : 13
 						}
 					}, 
 					stimulusMedia : [ //Stimuli content as PIP's media objects
@@ -103,4 +103,3 @@ define(['pipAPI', 'https://keefellow.github.io/biat/index.js'], function(APICons
 			} 
 	});
 });
-
