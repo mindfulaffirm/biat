@@ -18,7 +18,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/BIAT/qual
 					}
 				}, 
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word : 'Dogs'}, 
+					{word : 'MONKEY'}, 
 					{word : 'Horses'}, 
 					{word : 'Lions'}, 
 					{word : 'Cows'}
