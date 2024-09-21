@@ -63,12 +63,10 @@ define(['pipAPI', 'https://keefellow.github.io/biat/index.js'], function(APICons
 						}
 					}, 
 					stimulusMedia : [ //Stimuli content as PIP's media objects
-					{image : 'black1.jpg'}, 
-        			{image : 'black2.jpg'}, 
-        			{image : 'black3.jpg'}, 
-        			{image : 'black4.jpg'}, 
-        			{image : 'black5.jpg'}, 
-        			{image : 'black6.jpg'}
+					{word : 'Pigeons'}, 
+					{word : 'Swans'}, 
+					{word : 'Crows'}, 
+					{word : 'Ravens'}
 					], 
 					//Stimulus css (style of the stimuli)
 					stimulusCss : {color:'#31b404','font-size':'2em'}
@@ -86,12 +84,10 @@ define(['pipAPI', 'https://keefellow.github.io/biat/index.js'], function(APICons
 						}
 					}, 
 					stimulusMedia : [ //Stimuli content as PIP's media objects
-					{image : 'yf1.jpg'}, 
-        			{image : 'yf4.jpg'}, 
-        			{image : 'yf5.jpg'}, 
-        			{image : 'ym2.jpg'}, 
-        			{image : 'ym3.jpg'}, 
-        			{image : 'ym5.jpg'}
+					{word : 'Pigeons'}, 
+					{word : 'Swans'}, 
+					{word : 'Crows'}, 
+					{word : 'Ravens'}
 					], 
 					//Stimulus css
 					stimulusCss : {color:'#31b404','font-size':'2em'}
