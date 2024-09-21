@@ -12,7 +12,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/BIAT/qual
 					height : 4, //Height (because we need to know where to put the next item in the title)
 					startStimulus : { 
 					//If you're using a startStimulus, set here. If not, set the parameter showStimuliWithInst to false (see later below)
-						media : {word : 'Dogs, Horses, Cows, Lions'}, 
+						media : {word : 'DoXgs, Horses, Cows, Lions'}, 
 						css : {color:'#31b404','font-size':'1em'}, 
 						height : 2
 					}
