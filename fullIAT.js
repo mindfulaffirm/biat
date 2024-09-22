@@ -66,7 +66,7 @@ return iatExtension({
 		{
 			name : 'Prescriptive', 
 			title : {
-				media : {word : 'Liberal Arts'}, 
+				media : {word : 'Prescriptive'}, 
 				css : {color:'#31940F','font-size':'1.8em'}, 
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
