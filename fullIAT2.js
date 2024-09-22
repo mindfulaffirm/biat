@@ -56,8 +56,8 @@ return iatExtension({
 				{word: 'Adventure'},
 				{word: 'Searching'},
 				{word: 'Discovery'},
-				{word: 'Probing'},
-				{word: 'Autonomy'}
+				{word: 'Seeking'},
+				{word: 'Curiosity'}
 			], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'2.3em'} 
@@ -77,7 +77,7 @@ return iatExtension({
 				{word: 'Strict'},
 				{word: 'Perfection'},
 				{word: 'Repetition'}, 
-				{word: 'Standardised'}
+				{word: 'Dsicipline'}
 			], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'2.3em'}
