@@ -25,7 +25,7 @@ return iatExtension({
 		attribute1 :	{
 			name : 'Bad', //Will appear in the data.
 			title : {
-				media : {word : 'bad'}, //Name of the category presented in the task.
+				media : {word : 'Bad'}, //Name of the category presented in the task.
 				css : {color:'#0000FF','font-size':'1.8em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
