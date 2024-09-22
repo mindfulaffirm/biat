@@ -42,7 +42,7 @@ return iatExtension({
 			//Stimulus css
 			stimulusCss : {color:'#0000FF','font-size':'2.3em'}
 		},
-		category2 : 
+		category1 : 
 		{
 			name : 'Exploration', 
 			title : {
