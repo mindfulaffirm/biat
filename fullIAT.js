@@ -2,7 +2,7 @@ define(['pipAPI','https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualtr
 	var API = new APIConstructor();
 
 return iatExtension({
-      attribute1 : {
+      attribute2 : {
 			name : 'Good', //Will appear in the data.
 			title : {
 				media : {word : 'Good'}, //Name of the category presented in the task.
@@ -22,7 +22,7 @@ return iatExtension({
 			//Stimulus css (style)
 			stimulusCss : {color:'#0000FF','font-size':'2.3em'}
 		},	
-		attribute2 :	{
+		attribute1 :	{
 			name : 'Bad', //Will appear in the data.
 			title : {
 				media : {word : 'bad'}, //Name of the category presented in the task.
@@ -42,7 +42,7 @@ return iatExtension({
 			//Stimulus css
 			stimulusCss : {color:'#0000FF','font-size':'2.3em'}
 		},
-		category1 : 
+		category2 : 
 		{
 			name : 'Exploration', 
 			title : {
