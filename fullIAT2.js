@@ -77,7 +77,7 @@ return iatExtension({
 				{word: 'Strict'},
 				{word: 'Perfection'},
 				{word: 'Repetition'}, 
-				{word: 'Dsicipline'}
+				{word: 'Discipline'}
 			], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'2.3em'}
